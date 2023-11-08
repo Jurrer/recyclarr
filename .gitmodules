@@ -4,3 +4,6 @@
 [submodule "repositories/trash-guides"]
 	path = repositories/trash-guides
 	url = https://github.com/TRaSH-Guides/Guides.git
+[submodule "repositories/my-configs"]
+	path = repositories/my-configs
+	url = git@github.com:Jurrer/recyclarr-config-templates.git
