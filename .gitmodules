@@ -1,0 +1,6 @@
+[submodule "repositories/config-templates"]
+	path = repositories/config-templates
+	url = https://github.com/recyclarr/config-templates.git
+[submodule "repositories/trash-guides"]
+	path = repositories/trash-guides
+	url = https://github.com/TRaSH-Guides/Guides.git
