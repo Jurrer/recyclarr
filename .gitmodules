@@ -1,0 +1,3 @@
+[submodule "repositories/config-templates"]
+	path = repositories/config-templates
+	url = git@github.com:Jurrer/recyclarr-config-templates.git
