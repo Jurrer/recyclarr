@@ -6,7 +6,7 @@
 
 repositories:
   trash_guides:
-      clone_url: https://github.com/TRaSH-/Guides.git
+      clone_url: https://github.com/TRaSH-Guides/Guides
       branch: master
   config_templates:
       clone_url: https://github.com/Jurrer/recyclarr-config-templates.git
